@@ -56,11 +56,11 @@ client2.on('message', message => {
 
 
 client.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!spam3') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Satan , Farm Credit By Satan, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -70,11 +70,11 @@ if (message.content === '!spam') {
 });
 
 client2.on('message', message => { // لا تغير شئ عشان ما تخرب الدنيا
-if (message.content === '!spam') {
+if (message.content === '!spam3') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Satan , Farm Credit By Satan, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
