@@ -27,6 +27,7 @@ client.on('message', message => {
 client.on('message', message => {
     if(message.content === '-مبلغ'){
         message.channel.send('#credits')
+      
     }
 });
 
@@ -60,7 +61,7 @@ if (message.content === '!spam3') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Satan , Farm Credit By Satan, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Satan , Farm Credit By Satan, ez Farm -   22 سبامر ناوكردت اسبام اسبام اسبام اوف ءف نار نار نار  اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -74,7 +75,7 @@ if (message.content === '!spam3') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Satan , Farm Credit By Satan, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**Credit Spam , Frame , Credit By Satan , Farm Credit By Satan, ez Farm -   22 سبامر ناوكردت اسبام اسبام اسبام اوف ءف نار نار نار  اح اح نار ج **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
